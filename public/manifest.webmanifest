@@ -1,0 +1,9 @@
+{
+  "name": "H5 Tools · 本地文件工具箱",
+  "short_name": "H5 Tools",
+  "description": "文件只在当前设备处理的本地文件工具箱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7eee9",
+  "theme_color": "#f7eee9"
+}
